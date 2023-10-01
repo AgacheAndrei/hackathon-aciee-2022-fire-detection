@@ -1,6 +1,6 @@
 # The hackathon Aciee 2022 🤖
 ## The problem to solve fire detection in a warehouse 🔥🔥🔥
-**Here is all the code except the website (another membero f the team build it)**
+**Here is all the code except the website (another membero of the team build it)**
 ### Solution
 <p>A mobile system with a camera 🎥 for fire detection in a warehouse, alerting individuals through a mobile message📳, phone call📲, email📨, sound alarm🔊, and real-time notification. 
 The data could be viewed on a website🕸️.
@@ -12,7 +12,25 @@ The system was able to move after the fire source if this was the case.
 <br>
 **The code for the movement of the camera was written in Python🐍**.
 <br>
-**The code for the system of alerts was written in Python🐍 I used Twilio for SMS and to call the number of the end user, and for the email we used some extern tools to do it**.
+**The code for the system of alerts was written in Python🐍 I used Twilio for SMS and to call the number of the end user, for the sound alarm I used playsound and for the emails smtplib**.
+
+### Libraries  for camera
+ import cv2
+ <br>
+ imutils.video import VideoStream
+### Library for camera movement
+RPi.GPIO 
+### Libraries for openCV
+ threading   # Library for threading -- which allows code to run in backend
+ <br>
+ playsound   # Library for alarm sound
+ <br>
+ smtplib     # Library for email sending
+ <br>
+### Library for twilio
+ twilio.rest 
+
+
 
 
 ## Some photos from the project:
