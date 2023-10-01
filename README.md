@@ -15,21 +15,28 @@ The system was able to move after the fire source if this was the case.
 **The code for the system of alerts was written in Python🐍 I used Twilio for SMS and to call the number of the end user, for the sound alarm I used playsound and for the emails smtplib**.
 
 ### Libraries  for camera
- import cv2
- <br>
- imutils.video import VideoStream
-### Library for camera movement
-RPi.GPIO 
-### Libraries for openCV
- threading   # Library for threading -- which allows code to run in backend
- <br>
- playsound   # Library for alarm sound
- <br>
- smtplib     # Library for email sending
- <br>
-### Library for twilio
- twilio.rest 
 
+<pre>
+ import cv2
+ imutils.video import VideoStream
+</pre>
+
+### Library for camera movement
+
+<pre>
+ RPi.GPIO
+ </pre>
+ 
+### Libraries for openCV
+<pre>
+ threading   # Library for threading -- which allows code to run in backend
+ playsound   # Library for alarm sound
+ smtplib     # Library for email sending
+</pre>
+### Library for twilio
+ <pre>
+ twilio.rest 
+ </pre>
 
 
 
