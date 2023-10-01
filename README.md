@@ -4,13 +4,20 @@
 <br>
 **! 48 hours to resolve this problem !**
 ### Solution
+### Programing languages and technology used
+
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />  
+
+<br>
+<br>
 <p>A mobile system with a camera 🎥 for fire detection in a warehouse, alerting individuals through a mobile message📳, phone call📲, email📨, sound alarm🔊, and real-time notification. 
 The data could be viewed on a website🕸️.
 The system was a raspberry pi with a camara mounted on and the camera was moved using a small electric engine. To cool❄️ the system we used a small fan.
 The system was able to move after the fire source if this was the case.
 </p>
 
-**The code for the fire detection was written in Python🐍**.
+**The code for the fire detection was written in Python🐍 using advanced image manipulation to detect the fire**.
 <br>
 **The code for the movement of the camera was written in Python🐍**.
 <br>
