@@ -34,7 +34,7 @@ The system was able to move after the fire source if this was the case.
 
 <pre>
  RPi.GPIO
- </pre>
+</pre>
  
 ### Libraries for openCV
 <pre>
@@ -43,9 +43,9 @@ The system was able to move after the fire source if this was the case.
  smtplib     # Library for email sending
 </pre>
 ### Library for twilio
- <pre>
+<pre>
  twilio.rest 
- </pre>
+</pre>
 
 
 
