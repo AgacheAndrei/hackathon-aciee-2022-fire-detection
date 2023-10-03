@@ -17,11 +17,11 @@ The system was a raspberry pi with a camara mounted on and the camera was moved 
 The system was able to move after the fire source if this was the case.
 </p>
 
-**The code for the fire detection was written in Python🐍 using advanced image manipulation to detect the fire**.
+**I deloped a solution for the fire detection in Python🐍 using advanced image manipulation to detect the fire**.
 <br>
 **The code for the movement of the camera was written in Python🐍**.
 <br>
-**The code for the system of alerts was written in Python🐍 I used Twilio for SMS and to call the number of the end user, for the sound alarm I used playsound and for the emails smtplib**.
+**The system of alerts was written in Python🐍 I used Twilio for SMS and to call the number of the end user, for the sound alarm I used playsound and for the emails smtplib**.
 
 ### Libraries  for camera
 
