@@ -17,7 +17,7 @@ The system was a raspberry pi with a camara mounted on and the camera was moved 
 The system was able to move after the fire source if this was the case.
 </p>
 
-**I deloped a solution for the fire detection in Python🐍 using advanced image manipulation to detect the fire**.
+**I developed a solution for the fire detection in Python🐍 using advanced image manipulation to detect the fire**.
 <br>
 **The code for the movement of the camera was written in Python🐍**.
 <br>
